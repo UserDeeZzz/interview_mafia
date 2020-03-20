@@ -1,0 +1,8 @@
+.venv
+.idea
+__pycache__
+.pyc
+*.log
+*.pickle
+.coverage
+nohup.out
